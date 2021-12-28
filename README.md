@@ -3,7 +3,9 @@
 ## Sobre o Projeto
 
 <div align="center">
-    <img alt="Catho Web Scraping Resultado CSV" src="https://kayolibarino.com/wp-content/uploads/2021/12/catho-scraping-resultado-csv.gif">
+    <a href="https://kayolibarino.com/web-scraping-vagas-programadores/" target="_blank">
+      <img alt="Catho Web Scraping Resultado CSV" src="https://kayolibarino.com/wp-content/uploads/2021/12/catho-scraping-resultado-csv.gif">
+    </a>
 </div>
 
 <br />
@@ -42,10 +44,12 @@ pip install matplotlib
 
 ## Resultado
 
-No diretório “data” será gerado um arquivo CSV com todos os detalhes das vagas. E no final da raspagem será apresentado um gráfico com a média salarial.
+<p>No diretório “data” será gerado um arquivo CSV com todos os detalhes das vagas. E no final da raspagem será apresentado um gráfico com a média salarial.</p>
 
 <div align="center">
-    <img alt="Catho Web Scraping - Resultado com a média salarial" src="https://kayolibarino.com/wp-content/uploads/2021/12/catho-scraping-resultado-media-salarial.png">
+    <a href="https://kayolibarino.com/web-scraping-vagas-programadores/" target="_blank">
+      <img alt="Catho Web Scraping - Resultado com a média salarial" src="https://kayolibarino.com/wp-content/uploads/2021/12/catho-scraping-resultado-media-salarial.png">
+    </a>
 </div>
 
 <br />
