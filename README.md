@@ -26,7 +26,7 @@
 ## Clonando o repositório
 
 ```bash
-git clone https://github.com/KayoLibarino/catho_scraping.git
+git clone https://github.com/KayoLibarino/webscraping_vagas_catho.git
 
 cd catho_scraping
 ```
